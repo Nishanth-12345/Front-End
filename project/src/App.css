@@ -1,0 +1,61 @@
+.app{
+    text-align: center;
+}
+
+.customBG{
+    height: 100vh;
+    background-image: linear-gradient(135deg,#5EFCE8 10%, #6445ee 100%);
+}
+
+.open{
+    margin: 8px;
+    padding: 5px 12px 8px 12px;
+    background: #725cd3;
+    color: wheat;
+
+}
+.open:hover{
+    color: #362c62;
+    background: #88cff2;
+    border-radius: 15px;
+    
+}
+
+.data{
+    margin: 8px;
+    padding: 6px 6px;
+    background: #725cd3;
+    color: wheat;
+}
+.data:hover{
+    color: #362c62;
+    background: #88cff2;
+    border-radius: 15px;
+}
+
+.text{
+    color: rgba(64, 60, 120, 0.956);
+    font-size: 30px;
+}
+
+.Register{
+    text-align: center;
+    font-size: 28px;
+    
+   
+    
+    color: rgb(12, 7, 82);
+}
+.Register:hover{
+    color: aqua;
+}
+
+.form{
+    color: #f6f3f8;
+    font-size: 28px;
+}
+
+.Form{
+    color: #e8e8e8;
+    font-size: 28px;
+}
