@@ -19,9 +19,9 @@ function Modal() {
    // const [error, setError] = useState(false);
     
     
-    const handSubmit = async (e) => {
+    const handSubmit = async () => {
         
-     e.preventDefault();
+     
      
      const post = await axios.post('/user/create', {
        firstName : firstName,
